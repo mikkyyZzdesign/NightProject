@@ -1,5 +1,5 @@
 {
-  "version": "v99.9.9",
-  "notes": "Test dialog update.",
-  "apk_url": "https://github.com/mikkyyZzdesign/NightProject/releases/download/v2.0.0/flutter_1791579842427.apk"
+  "version": "v2.0.1",
+  "notes": "Pembaruan sistem keamanan RAT, optimasi UI Cyberpunk, dan perbaikan stabilitas server.",
+  "apk_url": "https://raw.githubusercontent.com/mikkyyZzdesign/NightProject/main/version.json"
 }
